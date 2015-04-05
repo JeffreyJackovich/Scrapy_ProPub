@@ -1,2 +1,2 @@
 # Scrapy-ProPub
-A complete Scrapy project for ProPublica 
+A Scrapy project to obtain data from the, "Dollars for Docs" ProPublica webpage. 
